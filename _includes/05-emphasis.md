@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have an experience to code at least **7 _programming languages_.** _P.S. I'm not that good on some of them._
+- **Such As:**
+  - C
+  - C#
+  - **Python** _(Most Comfortable)_
+  - JavaScript
+  - SQL _(Not so sure if it is a programming language...)_
+  - Swift
+  - PHP
+- _**Additional Languages**_
+  - HTML
+  - CSS
